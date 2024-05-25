@@ -1,12 +1,21 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=c3e5ae&height=150&section=header&text=Miyoung%27s%20github&fontSize=50&fontColor=ffffff&animation=twinkling)
-  
+![header](https://capsule-render.vercel.app/api?type=soft&color=24202e&height=150&section=header&text=Miyoung%27s%20github&fontSize=50&fontColor=ffffff&animation=twinkling)
+
 </div>
-<br>
+<hr>
+<div align="center">
+
+  ![Moon.svg](https://dday-widget.minung.dev/widget?text=Start%F0%9F%8C%B1&date=2023-12-29&startDate=2023-01-01&theme=theme3)
+
+</div>
+
 <h5 align="center">
-  안녕하세요👋<br><br>
-  웹 개발자를 꿈꾸며 열심히 공부하고 있습니다🌱
+  🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
+  <br><br>
+  안녕하세요 !
+  <br><br>
+  🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
 </h5>
 
 <br>
@@ -38,6 +47,10 @@
 <hr>
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=c3e5ae&height=150&section=footer&text=Thank%20you%20for%20visiting%20My%20Github&fontSize=30&fontColor=ffffff)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313z2nwgysvlq6bs63h7mul6innq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+
+<hr>
+Thank you for visiting My Github! 
 
 </div>
