@@ -37,6 +37,7 @@
       <th>DataBase</th>
       <th>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="oracle" />
+        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql">
       </th>
     </tr>
     <tr>
